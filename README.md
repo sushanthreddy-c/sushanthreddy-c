@@ -39,6 +39,14 @@ An Excel-based dashboard analyzing 6 months of expenses using pivot tables, KPI 
 🔗 Live Demo: https://your-username.github.io/habit-tracker/
 📂 GitHub Repo: https://github.com/your-username/habit-tracker
 
+📊 Student Performance Analyzer
+
+📌 Overview
+
+This project analyzes student performance using Python. It generates a dataset of students and evaluates their academic performance across subjects.
+
+
+
 
 A simple and interactive habit tracking app to build consistency using streaks and progress tracking.
 
