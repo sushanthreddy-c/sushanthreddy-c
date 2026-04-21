@@ -45,9 +45,16 @@ A simple and interactive habit tracking app to build consistency using streaks a
 📊 Student Performance Analyzer
 
 📂 GitHub Repo: https://github.com/sushanthreddy-c/student-analyzer
-📌 Overview
 
 This project analyzes student performance using Python. It generates a dataset of students and evaluates their academic performance across subjects.
+
+🐳 Habit Tracker - Dockerized Web App
+
+🔗 Live Demo: https://your-username.github.io/habit-tracker/
+📂 GitHub Repo: https://github.com/your-username/habit-tracker
+
+
+This project demonstrates how a frontend web application can be containerized using Docker and served using Nginx.
 
 
 
