@@ -30,6 +30,7 @@ I am a passionate developer interested in building user-friendly web application
 A Pomodoro-based focus timer to track study sessions and improve productivity using real-time tracking and local storage.
 
 📊 Personal Expense Dashboard
+
 📂 Repo: https://github.com/sushanthreddy-c/expense-dashboard
 
 An Excel-based dashboard analyzing 6 months of expenses using pivot tables, KPI metrics, and data visualization to identify spending trends.
@@ -40,7 +41,7 @@ An Excel-based dashboard analyzing 6 months of expenses using pivot tables, KPI 
 📂 GitHub Repo: https://github.com/your-username/habit-tracker
 
 📊 Student Performance Analyzer
-
+📂 GitHub Repo: https://github.com/sushanthreddy-c/student-analyzer
 📌 Overview
 
 This project analyzes student performance using Python. It generates a dataset of students and evaluates their academic performance across subjects.
