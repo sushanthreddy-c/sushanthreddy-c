@@ -60,5 +60,5 @@ JavaScript
 
  🔗 Connect with Me
 
-* 💼 LinkedIn:https://leetcode.com/u/sushanthreddy-c/
+* 💼 LinkedIn:www.linkedin.com/in/sushanth-cheemarla
 * 📧 Email: cheemaralsushanthreddy@gmail.com
