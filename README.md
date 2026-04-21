@@ -40,7 +40,10 @@ An Excel-based dashboard analyzing 6 months of expenses using pivot tables, KPI 
 🔗 Live Demo: https://your-username.github.io/habit-tracker/
 📂 GitHub Repo: https://github.com/your-username/habit-tracker
 
+A simple and interactive habit tracking app to build consistency using streaks and progress tracking.
+
 📊 Student Performance Analyzer
+
 📂 GitHub Repo: https://github.com/sushanthreddy-c/student-analyzer
 📌 Overview
 
