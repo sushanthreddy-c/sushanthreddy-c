@@ -34,6 +34,7 @@ I am a passionate developer interested in building user-friendly web application
 A modern Pomodoro-based focus timer designed to improve productivity by tracking study sessions and maintaining focus intervals.
 
 🚀 Features
+
 ⏱ 25-minute focus timer (Pomodoro technique)
 ▶ Start / ⏸ Pause / 🔄 Reset controls
 📊 Real-time study time tracking
@@ -44,6 +45,7 @@ A modern Pomodoro-based focus timer designed to improve productivity by tracking
 
 
 🛠 Tech Stack
+
 HTML
 CSS
 JavaScript
