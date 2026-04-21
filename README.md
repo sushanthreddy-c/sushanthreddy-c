@@ -34,6 +34,14 @@ A Pomodoro-based focus timer to track study sessions and improve productivity us
 
 An Excel-based dashboard analyzing 6 months of expenses using pivot tables, KPI metrics, and data visualization to identify spending trends.
 
+🚀 Habit Tracker
+
+🔗 Live Demo: https://your-username.github.io/habit-tracker/
+📂 GitHub Repo: https://github.com/your-username/habit-tracker
+
+
+A simple and interactive habit tracking app to build consistency using streaks and progress tracking.
+
 
 ---
 
