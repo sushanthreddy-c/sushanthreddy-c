@@ -50,8 +50,8 @@ This project analyzes student performance using Python. It generates a dataset o
 
 🐳 Habit Tracker - Dockerized Web App
 
-🔗 Live Demo: https://your-username.github.io/habit-tracker/
-📂 GitHub Repo:https://github.com/sushanthreddy-c/habit-tracker-docker
+🔗 Live Demo: http://localhost:8080
+📂 GitHub Repo: https://github.com/sushanthreddy-c/habit-tracker-docker
 
 
 This project demonstrates how a frontend web application can be containerized using Docker and served using Nginx.
