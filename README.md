@@ -1,16 +1,43 @@
-## Hi there 👋
+ Hi, I'm Sushanth Reddy 👋
 
-<!--
-**sushanthreddy-c/sushanthreddy-c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Aspiring Software Developer | Frontend | Data Analytics | Data Science | Devops
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 About Me
+
+I am a passionate developer interested in building user-friendly web applications, solving real-world problems using data, and exploring DevOps practices. I enjoy working across different areas of development and continuously improve my skills by learning new technologies and building hands-on projects.
+
+---
+
+🔧 Skills
+
+* HTML, CSS, JavaScript
+* Python
+* Microsoft Excel
+* Git & GitHub
+* Devops
+* Data Analytics
+* Data Science
+
+---
+
+🚀 Projects
+
+ ⏱ Focus Timer with Study Tracker
+
+🔗 Live Demo: https://sushanthreddy-c.github.io/focus-timer/
+📂 GitHub Repo: https://github.com/sushanthreddy-c/focus-timer
+
+---
+
+ 📊 LeetCode
+
+ https://leetcode.com/u/sushanthreddy-c/
+
+---
+
+ 🔗 Connect with Me
+
+* 💼 LinkedIn:https://leetcode.com/u/sushanthreddy-c/
+* 📧 Email: cheemaralsushanthreddy@gmail.com
