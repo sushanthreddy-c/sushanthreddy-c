@@ -25,30 +25,15 @@ I am a passionate developer interested in building user-friendly web application
 🚀 Projects
 
  ⏱ Focus Timer with Study Tracker
+🔗 Live: https://sushanthreddy-c.github.io/focus-timer/ | 📂 Repo: https://github.com/sushanthreddy-c/focus-timer
 
-🔗 Live Demo: https://sushanthreddy-c.github.io/focus-timer/
-📂 GitHub Repo: https://github.com/sushanthreddy-c/focus-timer
+A Pomodoro-based focus timer to track study sessions and improve productivity using real-time tracking and local storage.
 
-📌 Description
+📊 Personal Expense Dashboard
+📂 Repo: https://github.com/sushanthreddy-c/expense-dashboard
 
-A modern Pomodoro-based focus timer designed to improve productivity by tracking study sessions and maintaining focus intervals.
+An Excel-based dashboard analyzing 6 months of expenses using pivot tables, KPI metrics, and data visualization to identify spending trends.
 
-🚀 Features
-
-⏱ 25-minute focus timer (Pomodoro technique)
-▶ Start / ⏸ Pause / 🔄 Reset controls
-📊 Real-time study time tracking
-💾 Data persistence using Local Storage
-🔁 Timer resumes after page refresh
-📈 Progress bar visualization
-🎨 Modern UI with responsive design
-
-
-🛠 Tech Stack
-
-HTML
-CSS
-JavaScript
 
 ---
 
