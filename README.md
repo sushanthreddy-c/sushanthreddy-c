@@ -49,7 +49,7 @@ A simple and interactive habit tracking app to build consistency using streaks a
 
  📊 Student Performance Analyzer
 
-📂 Repo: https://github.com/sushanthreddy-c/student-analyzer
+📂 Repo: https://github.com/sushanthreddy-c/sales-analysis
 This project analyzes student performance using Python. It generates a dataset of students and evaluates their academic performance across subjects.
 
 ---
