@@ -60,6 +60,13 @@ This project analyzes student performance using Python. It generates a dataset o
 Containerized a frontend web application using Docker and served it with Nginx for consistent and portable deployment.
 
 ---
+📊 Sales Data Analysis
+
+📂 Repo: https://github.com/sushanthreddy-c/habit-tracker-docker
+
+This project analyzes sales data using Python to extract meaningful insights and visualize business trends. A dataset is generated, processed, and analyzed to understand sales performance across categories, regions, and months.
+
+---
 
 📊 LeetCode
 
