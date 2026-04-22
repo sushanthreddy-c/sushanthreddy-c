@@ -27,7 +27,9 @@ I am a passionate developer interested in building user-friendly web application
 ⏱ Focus Timer with Study Tracker
 
 🔗 Live: https://sushanthreddy-c.github.io/focus-timer/
+
 📂 Repo: https://github.com/sushanthreddy-c/focus-timer
+
 A Pomodoro-based focus timer to track study sessions and improve productivity using real-time tracking and local storage.
 
 ---
@@ -35,6 +37,7 @@ A Pomodoro-based focus timer to track study sessions and improve productivity us
 📊 Personal Expense Dashboard
 
 📂 Repo: https://github.com/sushanthreddy-c/expense-dashboard
+
 An Excel-based dashboard analyzing 6 months of expenses using pivot tables, KPI metrics, and data visualization to identify spending trends.
 
 ---
@@ -42,7 +45,9 @@ An Excel-based dashboard analyzing 6 months of expenses using pivot tables, KPI 
 🔥 Habit Tracker
 
 🔗 Live: https://sushanthreddy-c.github.io/habit-tracker/
+
 📂 Repo: https://github.com/sushanthreddy-c/habit-tracker
+
 A simple and interactive habit tracking app to build consistency using streaks and progress tracking.
 
 ---
@@ -50,6 +55,7 @@ A simple and interactive habit tracking app to build consistency using streaks a
  📊 Student Performance Analyzer
 
 📂 Repo: https://github.com/sushanthreddy-c/sales-analysis
+
 This project analyzes student performance using Python. It generates a dataset of students and evaluates their academic performance across subjects.
 
 ---
@@ -57,6 +63,7 @@ This project analyzes student performance using Python. It generates a dataset o
  🐳 Habit Tracker - Dockerized Web App
 
 📂 Repo: https://github.com/sushanthreddy-c/habit-tracker-docker
+
 Containerized a frontend web application using Docker and served it with Nginx for consistent and portable deployment.
 
 ---
